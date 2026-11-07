@@ -1,0 +1,6 @@
+{
+  "name": "business-sage-suite",
+  "version": "2.0.0",
+  "description": "Business Sage + 49 Collaborative AI Skills: internet-researched S1-S2 (BBA/MBA) Strategy, Finance & Indonesian UMKM/Tax Advisor (Co-Pilot respecting business students & practitioners, NOT a replacement) + Eternal-Student Trend & Rp0-Bootstrap CLI.",
+  "skills": "./skills"
+}

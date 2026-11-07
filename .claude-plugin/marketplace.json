@@ -1,0 +1,20 @@
+{
+  "name": "hermes-business-sage-and-agent-skills",
+  "owner": {
+    "name": "Muhammad Zidan Aisar (MuZA) & Google Gemini"
+  },
+  "metadata": {
+    "description": "Business Sage + 49 Collaborative AI Skills: internet-researched S1-S2 (BBA/MBA) Strategy, Finance & Indonesian UMKM/Tax Advisor (Co-Pilot respecting business students & practitioners, NOT a replacement) + Eternal-Student Trend & Rp0-Bootstrap CLI (CLI-Anything ready for Hermes, OpenClaw, ChatGPT & Claude). Fun experiment by Gemini & 100% free."
+  },
+  "plugins": [
+    {
+      "name": "business-sage-suite",
+      "source": "./",
+      "description": "49 collaborative skills led by Business Sage (S1-S2 Business & Financial Co-Pilot, Indonesian UMKM/Tax scenarios, Eternal-Student Research Loop) and zero-MCP CLI-Anything harness.",
+      "author": {
+        "name": "Muhammad Zidan Aisar (MuZA)"
+      },
+      "category": "business-intelligence"
+    }
+  ]
+}

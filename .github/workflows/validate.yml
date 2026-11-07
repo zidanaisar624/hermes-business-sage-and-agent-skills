@@ -1,0 +1,19 @@
+name: Validate repository
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate package and 49 skills
+        run: python scripts/validate_repo.py
+      - name: Run bundled CLI regression
+        run: python business-sage/agent-harness/cli_anything/business_sage/tests/test_core.py

@@ -1,0 +1,17 @@
+{
+  "name": "hermes-business-sage-and-agent-skills",
+  "owner": {
+    "name": "Muhammad Zidan Aisar (MuZA) & Google Gemini"
+  },
+  "metadata": {
+    "description": "Business Sage + 49 Collaborative AI Skills: internet-researched S1-S2 Business & Financial Co-Pilot + Eternal-Student Trend & Zero-MCP CLI."
+  },
+  "plugins": [
+    {
+      "name": "business-sage-suite",
+      "source": "./",
+      "description": "S1-S2 BBA/MBA Financial & Indonesian UMKM/Tax Scenario Advisor, Trend Forecaster & CLI-Anything Harness.",
+      "category": "business"
+    }
+  ]
+}

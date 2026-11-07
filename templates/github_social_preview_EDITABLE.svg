@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B181C"/><stop offset="1" stop-color="#17483D"/></linearGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse"><path d="M52 0H0V52" fill="none" stroke="#32574D" stroke-opacity=".27" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1280" height="640" fill="url(#ground)"/><rect width="1280" height="640" fill="url(#grid)"/>
+  <circle cx="1050" cy="320" r="255" fill="none" stroke="#467A67" stroke-opacity=".5" stroke-width="2"/>
+  <circle cx="1050" cy="320" r="178" fill="none" stroke="#467A67" stroke-opacity=".5" stroke-width="2"/>
+  <rect x="740" y="139" width="470" height="328" rx="20" fill="#102A2A" stroke="#568C75" stroke-width="2"/>
+  <rect x="762" y="164" width="424" height="43" rx="11" fill="#174C41"/>
+  <text x="784" y="193" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="700" fill="#8EC79E">PERFORMANCE INTELLIGENCE</text>
+  <g fill="#18443C" stroke="#47745E"><rect x="763" y="235" width="132" height="75" rx="8"/><rect x="908" y="235" width="132" height="75" rx="8"/><rect x="1053" y="235" width="132" height="75" rx="8"/></g>
+  <g font-family="Inter,Arial,sans-serif"><text x="784" y="264" font-size="14" fill="#ABC0BA">FINANCE</text><text x="930" y="264" font-size="14" fill="#ABC0BA">STRATEGY</text><text x="1072" y="264" font-size="14" fill="#ABC0BA">GROWTH</text>
+  <text x="784" y="296" font-size="31" font-weight="700" fill="#F8FBF7">01</text><text x="930" y="296" font-size="31" font-weight="700" fill="#F8FBF7">02</text><text x="1072" y="296" font-size="31" font-weight="700" fill="#F8FBF7">03</text></g>
+  <rect x="765" y="329" width="420" height="110" rx="12" fill="#0E2528" stroke="#3D655C"/>
+  <polyline points="779,416 815,397 851,402 894,382 938,391 984,364 1037,365 1086,344 1145,349" fill="none" stroke="#67E0AE" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="55" y="65" width="49" height="49" rx="13" fill="#1B4A40" stroke="#8EC79E"/><text x="79" y="99" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="30" fill="#E5BA6E">S</text>
+  <text x="124" y="96" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="700" fill="#F8FBF7">BUSINESS SAGE</text>
+  <!-- Edit the three text nodes below to customize this template. -->
+  <text x="58" y="249" font-family="Inter,Arial,sans-serif" font-size="88" font-weight="800" fill="#F8FBF7">BUSINESS</text>
+  <text x="58" y="327" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="700" fill="#8EC79E">INTELLIGENCE</text>
+  <rect x="58" y="371" width="81" height="5" rx="2" fill="#E5BA6E"/>
+  <text x="58" y="424" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="600" fill="#F8FBF7">Strategy. Finance. Growth.</text>
+  <text x="58" y="464" font-family="Inter,Arial,sans-serif" font-size="19" fill="#ABC0BA">AI agent skills and practical decision tools</text>
+  <g font-family="Inter,Arial,sans-serif" font-size="17" font-weight="600" fill="#F8FBF7" text-anchor="middle">
+  <rect x="58" y="537" width="188" height="45" rx="11" fill="#1B4A40" stroke="#63977A"/><text x="152" y="566">49 AGENT SKILLS</text>
+  <rect x="259" y="537" width="164" height="45" rx="11" fill="#1B4A40" stroke="#63977A"/><text x="341" y="566">BUSINESS CLI</text>
+  <rect x="436" y="537" width="203" height="45" rx="11" fill="#1B4A40" stroke="#63977A"/><text x="538" y="566">INDONESIA FOCUS</text>
+  </g>
+</svg>
