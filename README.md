@@ -16,6 +16,7 @@
 [![CLI-Anything](https://img.shields.io/badge/Zero_MCP_Bloat-CLI--Anything_Ready-BB9358?style=for-the-badge&logo=python)](./skills/cli-anything-business-sage/SKILL.md)
 [![Skills](https://img.shields.io/badge/Collaborative_Skills-49-2F6F59?style=for-the-badge)](./docs/SKILLS_CATALOG.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-143C38?style=for-the-badge)](./LICENSE)
+[![Dukung via Saweria](https://img.shields.io/badge/Dukung%20via%20Saweria-QRIS%20%7C%20Mulai%20Rp25rb%20%2F%20Pro%20Rp100rb-F59E0B?style=for-the-badge)](https://saweria.co/muzas)
 
 [![Architected by Google Gemini](https://img.shields.io/badge/Architected_%26_Written_by-Google_Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)](https://gemini.google.com)
 [![Initiated by MuZA](https://img.shields.io/badge/Initiated_%26_Experimented_by-Muhammad_Zidan_Aisar_(MuZA)-F59E0B?style=flat-square)](https://github.com/zidanaisar624)
@@ -166,6 +167,14 @@ bsage --json synergy
 <img src="assets/github_social_preview_1280x640.jpg" alt="Business Sage GitHub link preview" width="70%" />
 
 GitHub **tidak** otomatis memasang gambar kartu *link preview* hanya dari commit file. Setelah repo dibuat di GitHub, buka **Repository → Settings → Social preview → Edit → Upload an image...** lalu pilih [`assets/github_social_preview_1280x640.jpg`](./assets/github_social_preview_1280x640.jpg) (`1280 × 640 px`, `< 1 MB`). Lihat panduan lengkap di [`docs/GITHUB_SETUP.md`](./docs/GITHUB_SETUP.md).
+
+---
+
+## Dukung Pengembangan / Support
+
+[![Dukung via Saweria](https://img.shields.io/badge/Dukung%20via%20Saweria-QRIS%20%7C%20Mulai%20Rp25rb%20%2F%20Pro%20Rp100rb-F59E0B?style=for-the-badge)](https://saweria.co/muzas)
+
+Proyek inti **Business Sage** tetap **open-source** dan bebas digunakan oleh siapa saja. Jika bermanfaat, dukungan sukarela melalui [Saweria (`https://saweria.co/muzas`)](https://saweria.co/muzas) membantu kelanjutan riset serta pembaruan rutin repositori ini.
 
 ---
 
